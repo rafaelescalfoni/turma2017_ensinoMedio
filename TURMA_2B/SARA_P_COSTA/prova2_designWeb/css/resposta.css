@@ -1,0 +1,201 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 3,9 + 1,0 + TG;
+ *
+ * 	Autor: Sara Pacheco Costa
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	background-color: #F5F5F5;
+}
+.fa{
+	background-color: #DDD;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * seletor incorreto
+ * pontuação: 0,2;
+*/
+nav li{
+	font-family: "helvetica neue";
+}
+h3{
+	font-family: "helvetica";
+	color: #444;
+}
+box-content{
+	font-family: "sans-serif";
+	color: #444;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.fa{
+	border-radius: 100%;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * obs: line-height
+ * pontuação: 0,4;
+*/
+
+.box-heading{
+	text-align: center;
+}
+.box-content{
+	font-size: 0.8em;
+	text-align: justify;
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+nav li{
+	color: black;
+}
+.span{
+	clear: color;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * correto
+ * pontuação: 1,0;
+*/
+
+.btn{
+		
+		border: solid 2px #000;
+		border-radius: 5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Tamanho, espaçamentos e posicionamento
+ * - item a
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	width: 270px;
+	height: 330px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Tamanho, espaçamentos e posicionamento
+ * - item b
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-heading-ico{
+	padding: 15px;
+}
+.box-heading{
+	padding: 0px;
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Tamanho, espaçamentos e posicionamento
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	margin: 20px 10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Tamanho, espaçamentos e posicionamento
+ * - item d
+ * obs 5px de top e bottom
+ * pontuação: 0,25;
+*/
+
+.btn{
+	padding: 20px 10px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Tamanho, espaçamentos e posicionamento
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	text-align: center;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+ * incorreto
+ * pontuação: 0;
+*/
+{
+	.box{
+		color: #000;
+		border-bottom: solid 2px #428bca;
+		border: solid 1px #444;
+	}
+}

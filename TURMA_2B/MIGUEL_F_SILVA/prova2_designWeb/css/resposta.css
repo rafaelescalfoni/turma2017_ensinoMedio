@@ -1,0 +1,205 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 1,6 + 1,0 + TG;
+ *
+ * 	Autor: <Miguel Fraga da Silva>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * obs: // sobrando;
+ * pontuação: 0,3;
+*/
+
+//.box{
+	background-color:#F5F5F5;
+}
+.box-heading-ico{
+	background-color:#ddd;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * obs: // sobrando;
+ * pontuação: 0,3;
+*/
+
+//body{
+	font-family:helvetica neue,helvetica,arial,sans-serif;
+	color:#444;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.box-heading-ico{
+	border:  solid 1px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * obs: // sobrando; text-indent; line-height
+ * pontuação: 0,2;
+*/
+
+//.box-heading{
+	text-align: center;
+	text-indent:1.5; 
+	
+}
+.box-content{
+	font-size: 0.8em;
+	text-align:justify;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.content{
+	text-decoration: bold;
+}
+span{
+	text-decoration:nome;
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.btn{
+	
+	text-transform: uppercase;
+	
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * obs: "//" sobrando;
+ * pontuação: 0,3;
+*/
+
+//.box{
+	width:270px;
+	height:330px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.box-heading-ico{
+		
+		padding-top:15px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.box-content{
+	padding-left:10px;
+	padding-top:20px;
+}
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * obs: "//" sobrando;
+ * pontuação: 0,3;
+*/
+
+//.btn{
+	padding-left:10px;
+	padding-top:5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+//.btn{
+	position:relative;
+	margin: 0 auto;
+	padding-bottom:10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 3
+ * III. Efeitos
+ * - item a
+ * obs: "//" sobrando;
+ * pontuação: 0,2;
+*/
+
+//.box a:houver{
+	background-color:#ffffff;
+	margin-bottom: #428BCA solid 2px;
+	margin-left:  #444 solid 1px;
+	margin-right:  #444 solid 1px;
+	margin-top:  #444 solid 1px;
+	
+}

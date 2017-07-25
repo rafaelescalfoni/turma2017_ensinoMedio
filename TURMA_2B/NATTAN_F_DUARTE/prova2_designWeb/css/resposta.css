@@ -1,0 +1,229 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 6,3 + 1,0 + TG;
+ *
+ * 	Autor: <Nattan Frederico Duarte>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	
+	background-color:#F5F5F5;	
+
+}
+
+.box-heading-ico{
+	
+	background-color:#ddd;
+	
+}
+
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * obs: seletor incorreto; largura e altura não requisitada no item
+ * pontuação: 0,3;
+*/
+
+.box{
+
+	font-family:"Helvetica Neue",Helvetica, Arial, sans-serif;
+	color:#444;
+	width: 270px;
+	height: 330px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading-ico{
+
+	border-radius:50px;
+
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading{
+	
+	text-align:center;
+	
+}
+
+.box-content{
+	
+	font-size:0.8em;
+	text-align:justify;
+	line-height:1.5em;
+	
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-heading h3{		
+
+			text-decoration: /*parametro para negrito*/;
+
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * obs: text-transform:uppercase;
+ * pontuação: 0,8;
+*/
+
+.btn{
+		
+	border: 2px solid #000;
+	border-radius:5px;
+	text-decoration: /* parametro para tornar maiuscula*/
+}
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{	
+	
+	width: 270px;
+	height: 330px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading-ico{
+	
+	margin: 15px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * obs: position não requisitada no item;
+ * pontuação: 0,4;
+*/
+
+.box{
+	
+	margin: 20px 10px;
+	position:relative;
+	
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * obs: parâmetros de borda não requisitadas;
+ * pontuação: 0,4;
+*/
+
+.btn{
+	
+	padding:5px 10px;
+	border: 2px solid #000;
+	border-radius:5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * obs: .box{position:relative};
+ * pontuação: 0,8;
+*/
+
+.btn{
+
+	position:absolute;
+	bottom:10px;
+	left:100px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+ * correto
+ * pontuação: 1,0;
+*/
+
+.box:hover{
+	
+	background-color: #FFF;
+	border:1px solid #444;
+	border-bottom: 2px solid #428BCA
+		
+}

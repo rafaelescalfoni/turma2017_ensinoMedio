@@ -1,0 +1,225 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *
+ *  Nota: 1,0 + 0,8 + TG
+ *
+ * 	Autor: <Ana beatriz Quintes Gonçalves>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ *
+ * correção: não existe .icone
+ * pontuação alcançada: 0.3;
+*/
+	.box{
+		background-color: #F5F5F5;
+	}
+
+	.icone{
+		background-color: #ddd;
+	}
+	
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ *
+ * correção: código de cores incorreto
+ * pontuação alcançada: 0.4;
+*/
+
+	body{
+		font-family: "Helvetica Neue", Helvetica, Arrial, sans-serif;
+		color: #4444;
+		
+	}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ *
+ * correção: incorreto
+ * o certo seria: border-radius:50%;
+ * pontuação alcançada: 0;
+*/
+
+	.icone{
+		border: 30% 30% 30% 30%;
+	}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ *
+ * correção: 
+ *	box-heading
+ *		seletor incorreto; 
+ *		propriedade incorreta;
+ *	box-content
+ * 		seletor incorreto;
+ * 		texto não foi justificado;
+ *
+ * pontuação alcançada: 0.2;
+*/
+
+	#box-heading{
+		position: center;
+		
+	}
+	#box-content{
+		font-size: 0.8em;
+		line-height: 1.5em;
+	}
+	
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ *
+ * correção: incorreto
+ *	pontuação: 0;
+*/
+
+	.cabeçalho{
+		font: negrito;
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ *
+ * correção: 
+ *		seletor incorreto; 
+ *		maiúsculos incorreto;
+ *		borda arredondada incorreta
+ *
+ * pontuação alcançada: 0;
+*/
+
+	#btn{
+		border: solid 5px;
+		border-width: 2px;
+		color: black;
+		
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ *
+ * correção: 
+ *		seletor incorreto;
+ *		propriedades incorretas
+ * pontuação: 0;
+*/
+	#box{
+		padding: 270px;
+		wider: 330px;
+		
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ *
+ *	correção: incorreto;
+ * 	pontuação: 0;
+*/
+	.box-heading-ico{
+		padding-top: 15px;
+	}
+	
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ *	correção:
+ *		seletor incorreto;
+ *		espaçamento interno lateral à direita incorreto
+ *		espaçamento interno vertical incorreto
+ *	pontuação: 0.1;
+*/
+
+	.componente-box{
+		padding-left: 10px;
+		padding-right: 20px;
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * correção:
+ *		seletor incorreto;
+ *		espaçamento interno lateral incorreto
+ *		espaçamento interno vertical incorreto
+ *	pontuação: 0;
+*/
+
+	#btn{
+		padding: 10px;
+		wider: 5px;
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 2
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * correção: incorreto;
+ *	pontuação: 0;
+*/
+	#btn{
+		border: center;
+		padding-top: 10px;
+	}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 3
+ * III. Efeitos
+ * - item a
+ *	incorreto
+ *	pontuação:0;
+*/
+
+	 #box{
+		 background-color: white;
+		 line-height: #428BCA solid 2px;
+		 border-bottom: #444 solid 1px;
+	 }

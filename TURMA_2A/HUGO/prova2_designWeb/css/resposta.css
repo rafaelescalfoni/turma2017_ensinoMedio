@@ -1,0 +1,199 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 3,8 + 1 + TG;
+ *
+ * 	Autor: <Hugo Monteiro de Souza>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	background-color: #F5F5F5;
+}
+.box-heading-ico{
+	background-color: #ddd;
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * obs: não alterou a cor da fonte;
+ * pontuação: 0,25;
+*/
+
+body{
+	font-family: "Helvetica Neue",Helvetic, Arial, sans-serif;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading-ico{
+	border-radius: 40px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * obs: text-transform; não justificou o conteúdo
+ * pontuação: 0,3;
+*/
+
+.box-heading{
+	text-align:center;
+}
+.box-content{
+	font-size:0.8em;
+	line-height:1.5em;
+	text-align: uppercase;
+
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-heading{
+	font-weight;
+}
+span{
+	
+}
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * obs: borda incorreta;
+ * pontuação: 0,3;
+*/
+
+.btn{
+	border-radius: 5px;
+	font-family: #FFF;
+	letter-spacing:2px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	width:270px;
+	height:330px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * correto
+ * pontuação: 0,5; 
+*/
+
+.box-heading-ico{
+	margin-top:15px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * obs: position incorreto para o item;
+ * pontuação: 0,4;
+
+*/
+.box{
+	position:relative;
+}
+
+.btn{
+	padding-right: 10px ;
+	padding-left: 10px ;
+	padding-top: 5px ;
+	padding-bottom:5px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	margin:0 auto;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+ * incorreto
+ * pontuação: 0;
+
+*/
+

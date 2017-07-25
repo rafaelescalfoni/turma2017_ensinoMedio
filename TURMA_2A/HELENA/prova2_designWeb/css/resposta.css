@@ -1,0 +1,196 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 3,2 + 1 + TG;
+ *
+ * 	Autor: <Helena Gouveia da Silva Regis>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * obs: não altera icone;
+ * pontuação: 0,25;
+*/
+
+.box{
+	background-color: #F5F5F5;	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * obs: seletor incorreto
+ * pontuação: 0,25;
+*/
+
+.body{
+	font-family: Helvetica Neue, Helvetica, Arial sans-serif;
+	color: #444;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * obs: item não pede alteração de cor de fundo;
+ * pontuação: 0,4;
+*/
+
+.box-heading-ico{
+	background-color: #ddd;
+	border-radius: 50px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * obs: item não pede alteração em família de fonte;
+ * 	não justifica conteúdo; não altera altura de linhas;
+ * pontuação: 0,1;
+*/
+
+.box-heading{
+	text-align: center;
+	font-family: Arial;
+}
+.box-content{
+	text-align: center;
+	font-size: 0.8em;
+	font-family: Arial;	
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * obs: não altera span;
+ * pontuação: 0,25;
+*/
+.box-heading{
+	font-style: bold;
+}
+
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * obs: texto não convertido em maiúsculo;
+ * pontuação: 0,7;
+*/
+
+.btn{
+	border: 2px solid #000;
+	border-radius: 5px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * obs: item não pede alteração na margem esquerda;
+ * pontuação: 0,4;
+*/
+
+.box{
+	margin-left: 10px;
+	width: 270px;
+	height: 330px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box{
+	margin-top: 15px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * incorreto
+ * pontuação: 0;
+*/
+
+//sua resposta aqui
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	border-radius: 5px #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+	color: #428BCA;
+
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+//sua resposta aqui
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+ obs: borda inferior deve ter 2px;
+ * pontuação: 0,8;
+*/
+.box:hover{
+	background-color: #fff;
+	border: 1px solid #428BCA;
+	border-right: #000;
+	border-left: #000;
+	border-top: #000;
+}

@@ -1,0 +1,195 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  Nota: 3,65 + 1,0 + TG;
+ * 	Autor: <Coloque seu nome aqui>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	background-color: #F5F5F5;
+}
+.box-heading-ico{
+	background-color: #ddd;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * incorreto: seletor;
+ * pontuação: 0,25;
+*/
+
+.content{
+	font-family:"heveltica neue","helvetica","arial","sans-serif";
+	color:#444;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading-ico{
+	border-radius:100%;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * obs: erro no tamanho e espaçamento de fontes;
+ * pontuação: 0,25;
+*/
+
+.box-heading{
+	text-align:center;
+}
+.box-content{
+	font-size:justify  0.8em;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-heading{
+	color:#444;
+}
+.box-heading span{
+	color:none;
+}
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * obs: não converte em maiúsculo;
+ * alteração no HTML 
+ * pontuação: 0;
+*/
+
+.btn{
+	border: solid 2px black;
+	border-radius:5px;
+	padding:5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	width:270px;
+	height:330px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * obs: propriedade incorreta;
+ * pontuação: 0,4;
+*/
+
+.box-heading{
+	padding-bottm:0;
+}
+.box-heading-ico{
+	margin:0 15px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * obs: espaçamento vertical incorreto;
+ * pontuação: 0,25;
+*/
+
+.box{
+	margin: 5px 10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-content p{
+	padding:10px 10px;
+	margin: 0 auto;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	margin: 10px 60px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+ * correto
+ * pontuação: 1,0;
+*/
+.box:hover{
+	background-color:white;
+	border:#444 solid 1px;
+	border-bottom:#428BCA solid 2px;
+}
+.btn:hover{
+	color:#428BCA;
+}

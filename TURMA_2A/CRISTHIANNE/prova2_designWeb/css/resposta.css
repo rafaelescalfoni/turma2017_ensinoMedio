@@ -1,0 +1,215 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 1,6 + 0,8 + TG;
+ *
+ * 	Autor: <Cristhianne Maria>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correção: .box-heading span {background-color:#ddd};
+ * pontuação: 0.25;
+*/
+
+.box {
+	background-color: #F5F5F5;
+	
+}
+
+.box-content{
+	text-align: justify;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * correção: o item não pede para centralizar texto;
+ * pontuação: 0,4;
+*/
+.box-heading{
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+}
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box-heading-ico {
+	color: #ddd;
+	border-bottom-style: solid ;
+	
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * correção: item não pede alteração de família de fonte, nem cor;
+ *		não está alterando espaçamento entre linhas 	
+ * pontuação: 0,3;
+*/
+.box-heading{
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+}
+.box-content{
+	text-align: justify;
+	font-size: 0.8em;
+	
+}
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+.box-heading{
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+	font-style: bolder;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: ; 
+}
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * correção: item não pede para alterar cor de fundo ou espaçamento interno;
+ * pontuação: 0,4;
+*/
+
+.box {
+	background-color: #F5F5F5;
+	width: 270px;
+	height: 330px;
+	padding-bottom: 15px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box {
+	background-color: #F5F5F5;
+	width: 270px;
+	height: 330px;
+	padding: 15px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * correção: item não pede alteração nas dimensões ou na cor da box;
+ * uso incorreto dos parâmetros do padding
+ * pontuação: 0,2;
+*/
+
+.box {
+	background-color: #F5F5F5;
+	width: 270px;
+	height: 330px;
+	padding: 10px, 20px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * incorreto
+ * pontuação: 0;
+*/
+.btn{
+	float: right;
+	position: absolute;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border-style: solid ;
+	font-size: 15px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+.btn{
+	position: center; 
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin:;
+}
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+*/
+
+//sua resposta aqui

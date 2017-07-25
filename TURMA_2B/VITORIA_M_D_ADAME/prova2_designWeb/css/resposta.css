@@ -1,0 +1,199 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 2,4 + 1,0 + TG;
+ *
+ * 	Autor: <Vitória Moura Diniz Adame>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * observações: item não pede alteração de cor de fonte;
+ 	não altera cor de ícone
+ * pontuação: 0,2;
+*/
+.box{
+	background-color:#F5F5F5;
+	color:#ddd;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ *	observações: não considera fonte "Helvetica Neue";
+ * pontuação: 0,4;
+ *
+*/
+body{
+	font-family:Helvetica, Arial, Sans-serif;
+	color:#444;
+}
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ *	incorreto
+ *	pontuação: 0;
+*/
+
+
+.box-heading-ico{
+	border-radius: 50px;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * observações: faltou line-height;
+ * pontuação: 0,4;
+*/
+
+.box-heading {
+	text-align:center;
+	
+}
+.box-content{
+	text-align:justify;
+	font-size:0.8em;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ 
+*/
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ *	incorreto
+ *	pontuação: 0;
+*/
+
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ *	observações: seletor incorreto;
+ 	alteração de cor de fonte não pedida
+ 	não altera maiúsculas
+ *	pontuação: 0,4;
+*/
+
+.bnt{
+
+	border-radius:5px;
+	color:#00F;
+	border: 2px solid;
+	
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ *	observação: altura incorreta;
+ *	pontuação: 0,25;
+*/
+
+.box{
+	width: 270px;
+	right: 330px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ *	incorreto
+ *	pontuação: 0;
+*/
+.box-heading-ico{
+	padding-top: 15px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ *	correto
+ *	pontuação: 0,5;
+*/
+
+.box{
+	margin: 20px 10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ *	observações: seletor incorreto;
+ 	valores de padding invertidos
+ 	pontuação:0,2;
+*/
+
+.bnt{
+	padding: 10px 5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ *	incorreto;
+ *	pontuação: 0;
+*/
+
+.bnt{
+	padding-bottom: 10px;
+	text-align:center;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+*/
+

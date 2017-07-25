@@ -1,0 +1,197 @@
+/*
+ *  2a Prova de Design Web - 27/06/2017
+ *  Professor Rafael Escalfoni
+ *  
+ *	Nota: 4,2 + 1 + TG;
+ *
+ * 	Autor: <Coloque seu nome aqui>
+*/
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item a (exemplo)
+ * correção: item não pede alterações de borda e fonte;
+ * pontuação: 0,4;
+*/
+
+.box{
+	border: 1px;
+	background-color:#F5F5F5;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#444;
+}
+.box-heading-ico{
+	background-color:#ddd;
+	border-radius:50%;
+}	
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item b
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#444;
+
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading-ico{
+	border-radius:50%;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item d
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box-heading{
+	text-align:center;
+}
+.box-content{
+	text-align:justify;
+	font-size:0.8em;
+	line-height:1.5 em;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+#menu-top{
+	font-style:bold;
+}
+
+/* -------- fim da resposta -------- */
+
+
+/* 
+ * Questao 1 
+ * I. Bordas, Cores e Fontes 
+ * - item f
+ * correção: text-decoration:uppercase;
+ * pontuação: 0,8;
+*/
+
+.btn{
+	border:solid 2px black;
+	text-decoration:underline;
+	border-radius:5px;
+}
+
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item a
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	width:270px;
+	height:330px;
+	}
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item b
+ * incorreto
+ * pontuação: 0;
+*/
+
+.box{
+	padding-top:15px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item c
+ * correto
+ * pontuação: 0,5;
+*/
+
+.box{
+	margin:20px 10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item d
+ * correto
+ * pontuação: 0,5;
+*/
+
+.btn{
+	padding-left: 10px; 
+	padding-top:5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * II. Bordas, Cores e Fontes 
+ * - item e
+ * incorreto
+ * pontuação: 0;
+*/
+
+.btn{
+	margin-bottom:10px;
+}
+
+/* -------- fim da resposta -------- */
+
+/* 
+ * Questao 1 
+ * III. Efeitos
+ * - item a
+*/
+
+/*.box{
+	background-color:#000;
+	border-bottom:#428BCA solid 2px;
+	border:#444 solid 1 px;
+}*/
